@@ -1,5 +1,5 @@
-# testing
-This is a Mini Portfolio Site for IM 415
+# Testing
+This is a Mini Portfolio Site for Portfolio I IM 415!
 
 ---
 
